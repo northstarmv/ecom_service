@@ -1,0 +1,31 @@
+{
+    "product": {
+        "serach": [
+            "admin"
+        ],
+        "add": [
+            "admin"
+        ],
+        "edit": [
+            "admin"
+        ],
+        "delete": [
+            "admin"
+        ],
+        "category_add": [
+            "admin"
+        ],
+        "list": [
+            "admin"
+        ],
+        "category_list":[
+            "admin"
+        ],
+        "category_del":[
+            "admin"
+        ],
+        "details": [
+            1
+        ]
+    }
+}
